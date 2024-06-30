@@ -1,3 +1,6 @@
 write your name and GitHub id 
 Name: AkashYadav
 GitHub ID: https://github.com/YdvAkash
+
+Name: AmitGupta
+GitHub ID: https://github.com/mramit18
