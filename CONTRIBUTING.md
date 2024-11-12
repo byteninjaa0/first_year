@@ -1,6 +1,6 @@
 
 
-Thank you for considering contributing to this project! Here are the steps to follow:
+Thank you for considering contributing to this project! Here are the steps to follow::
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b your-branch-name`
